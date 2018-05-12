@@ -1,0 +1,29 @@
+_repo: Sketches-of-the-Covenanters_13570
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McFeeters, J. C. (James Calvin)
+    alias: McFeeters, James Calvin
+    birthdate: 1848
+    deathdate: 1928
+    gutenberg_agent_id: '5135'
+    url: http://www.gutenberg.org/2009/agents/5135
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13570'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Church history -- 16th century'
+- !lcsh 'Scotland -- Church history -- 17th century'
+- !lcc 'BX'
+- !lcsh 'Covenanters'
+title: Sketches of the Covenanters
+url: http://www.gutenberg.org/ebooks/13570
